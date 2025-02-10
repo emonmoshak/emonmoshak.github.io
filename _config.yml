@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "EMON_PICTURE.png"
-  name             : "MDEMONMOSHAK"
+  name             : "EMON MOSHAK"
   pronouns         : # example: "he/him"  
   bio              : " Exploring programming"
   location         : "Dhaka,Bangladesh"
-  employer         : "Red Brick University"
+  employer         : "Jahangirnagar University School and College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "emoshayek@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
