@@ -1,0 +1,5 @@
+# Robots configuration file for Emon Moshak Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://emonmoshak.live/sitemap.xml
